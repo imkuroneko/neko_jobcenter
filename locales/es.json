@@ -1,0 +1,36 @@
+{
+    "open_recruitment_menu" : "Trabajos disponibles",
+    "open_postulation_menu" : "Postular a un puesto",
+
+    "postulation__form" : "Postulación de empleo",
+    "postulation__name" : "Nombre y Apellido",
+    "postulation__clientcid" : "Número de Documento",
+    "postulation__phone" : "Teléfono",
+    "postulation__birthdate" : "Fecha de Nacimiento",
+    "postulation__position" : "Cargo",
+    "postulation__experience" : "¿Qué experiencia tienes?",
+    "postulation__why_you" : "¿Por qué debemos contratarte?",
+    "postulation__business" : "Empresa",
+
+    "webhook_new_postulation" : "💼 Se ha recibido una nueva postulación",
+    "webhook_from_lsjc" : "Recepcionado desde LSJC",
+    "webhook_field_firstname" : "Nombre(s)",
+    "webhook_field_lastname" : "Apellido(s)",
+    "webhook_field_cid" : "Número de Documento",
+    "webhook_field_phone" : "Teléfono",
+    "webhook_field_birth" : "Fecha de Nacimiento",
+    "webhook_field_experience" : "Experiencia",
+    "webhook_field_reason" : "Motivo de contratación",
+    "webhook_field_position" : "Cargo/Puesto",
+
+    "recruitment_menu_label" : "Empleos disponibles",
+    "recruitment_menu_option_hover" : "Tomar este empleo",
+    "recruitment_menu_option_title" : "%s (Salario: $%s)",
+
+    "error_business_not_exist" : "Este negocio no existe",
+    "error_business_inbox_unknown" : "El correo de este negocio está lleno, intenta nuevamente mas tarde",
+    "error_job_not_available" : "Ese trabajo no está disponible para postulación",
+
+    "success_postulation_send" : "Tu postulación ha sido enviada",
+    "success_new_job" : "¡Felicidades! Ahora trabajas en '%s'"
+}
